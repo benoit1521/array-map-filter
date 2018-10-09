@@ -34,4 +34,6 @@ function getCampusesTeachingReact(campuses) {
     });
 }
 
+/*tests*/
+
 module.exports = getCampusesTeachingReact;
